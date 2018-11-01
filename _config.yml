@@ -9,7 +9,7 @@
 # - external: Links to external sources
 #    - authors-url: base url for article authors
 # NOTE: If you have a baseurl be sure to append it to any static content path e.g.: ${baseurl}/media/images/logo.png
-name: Presidium Template
+name: Design System Template
 #baseurl: /mysite
 footer: Template Footer
 logo: /media/images/logo.png
@@ -29,14 +29,15 @@ external:
 # Collections directories require a leading underscore: "./content/_{collection-name}/"
 #
 collections:
-    overview:
-    key-concepts:
-    prerequisites:
-    getting-started:
-    best-practices:
+    introduction:
+    design-principles:
+    visual-elements:
+    typography:
+    design-tokens:
+    style-guide:
     reference:
-    glossary:
-    recipes:
+    faqs:
+    contributing:
     tools:
     updates:
 
@@ -50,43 +51,47 @@ collections:
 # - collapsed: Whether articles should show in a tree or collapsed into a single item
 #
 sections:
-  - title: "Overview"
+  - title: "Introduction"
     url: "/"
-    collection: overview
-    collapsed: true
+    collection: introduction
+#    collapsed: true
 
-  - title: "Key Concepts"
-    url: "/key-concepts/"
-    collection: key-concepts
+  - title: "Design Principles"
+    url: "/design-principles/"
+    collection: design-principles
 
-  - title: "Prerequisites"
-    url: "/prerequisites/"
-    collection: prerequisites
+  - title: "Visual Elements"
+    url: "/visual-elements/"
+    collection: visual-elements
 
-  - title: "Getting Started"
-    url: "/getting-started/"
-    collection: getting-started
+  - title: "Typography"
+    url: "/typography/"
+    collection: typography
 
-  - title: "Best Practices"
-    url: "/best-practices/"
-    collection: best-practices
+  - title: "Design Tokens"
+    url: "/design-tokens/"
+    collection: design-tokens
+
+#  - title: "Tools"
+#   url: "/tools/"
+#   collection: tools
+
+  - title: "Style Guide"
+    url: "/style-guide/"
+    collection: style-guide
+
+  - title: "Contributing"
+    url: "/contributing/"
+    collection: contributing
 
   - title: "Reference"
     url: "/reference/"
     collection: reference
 
-  - title: "Glossary"
-    url: "/glossary/"
-    collection: glossary
-    export-content: true
-
-  - title: "Recipes"
-    url: "/recipes/"
-    collection: recipes
-
-  - title: "Tools"
-    url: "/tools/"
-    collection: tools
+  - title: "FAQs"
+    url: "/faqs/"
+    collection: faqs
+#    export-content: true
 
   - title: "Updates"
     url: "/updates/"
@@ -100,7 +105,7 @@ sections:
 #  label: "Show documentation for"
 #  all: "All Roles"
 #  options:
-#    - "Business Analyst"
+#    - "Designer"
 #    - "Developer"
 #    - "Tester"
 
