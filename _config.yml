@@ -33,8 +33,10 @@ collections:
     design-principles:
     visual-elements:
     typography:
+    components:
     design-tokens:
-    style-guide:
+    resources:
+    accessibility:
     reference:
     faqs:
     contributing:
@@ -68,6 +70,10 @@ sections:
     url: "/typography/"
     collection: typography
 
+  - title: "Components"
+    url: "/components/"
+    collection: components
+
   - title: "Design Tokens"
     url: "/design-tokens/"
     collection: design-tokens
@@ -76,9 +82,13 @@ sections:
 #   url: "/tools/"
 #   collection: tools
 
-  - title: "Style Guide"
-    url: "/style-guide/"
-    collection: style-guide
+  - title: "Resources"
+    url: "/resources/"
+    collection: resources
+
+  - title: "Accessibility"
+    url: "/accessibility/"
+    collection: accessibility
 
   - title: "Contributing"
     url: "/contributing/"

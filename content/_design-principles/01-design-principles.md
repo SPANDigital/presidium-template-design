@@ -10,4 +10,4 @@ This article should describe the design system vision. A popular view is that de
 * Design considerations
 * Company core values
 
-In addition to visual elements, design principles should also apply to the writing style and tone of the application, including guidance around colloquial language (such as puns) and branding messaging standards.
+In addition to visual elements, design principles should also apply to the writing style and tone of the application, including guidance around colloquial language and branding messaging standards.
