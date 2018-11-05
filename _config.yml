@@ -34,6 +34,7 @@ collections:
     visual-elements:
     typography:
     components:
+    motion:
     design-tokens:
     resources:
     accessibility:
@@ -73,6 +74,10 @@ sections:
   - title: "Components"
     url: "/components/"
     collection: components
+
+  - title: "Motion"
+    url: "/motion/"
+    collection: motion
 
   - title: "Design Tokens"
     url: "/design-tokens/"

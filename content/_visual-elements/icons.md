@@ -12,4 +12,4 @@ Possible topics include:
 * Icon styles (filled or outlined)
 * Any accessibility guidelines related to icons (with a link to the Accessibility article if appropriate)
 
-The article should also include a link to the icon library.
+The article should also include a link to the [icon library]({{sitebase.url}}/resources/#icon-library).
