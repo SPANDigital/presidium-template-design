@@ -7,6 +7,4 @@ This article should contain information about the versioning convention that wil
 
 The industry best practice is to use the major, minor, patch [standard semantic versioning model](https://semver.org/) that is standard for software applications.
 
-Versioning can be done by library (for example, ), by component (for example, )
-
 Versioning should also include conventions around deprecating parts of the design system.

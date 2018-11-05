@@ -3,7 +3,7 @@ title: Platforms
 author: author
 ---
 
-This article should describe how to use the design system for different platforms, such as:
+This article should describe the platforms supported by this design system, such as:
 
 * Web
 * iOS
