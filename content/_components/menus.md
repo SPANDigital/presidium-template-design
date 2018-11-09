@@ -1,4 +1,4 @@
 ---
-title: Adaptive Layout
+title: Menus
 author: author
 ---
