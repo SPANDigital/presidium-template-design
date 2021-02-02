@@ -1,4 +1,0 @@
----
-title: Tooltips
-author: author
----
