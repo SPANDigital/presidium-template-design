@@ -1,9 +1,9 @@
 ---
 title: Overview
 author: author
+weight: 1
 slug: overview
 url: typography/overview
-weight: 1
 ---
 
 This article should contain information about the selected typography and explain how this typography informs the design principles. It should include examples of the typography on its own and, optionally, in context. It should also include a link for [downloading the font family]({{sitebase.url}}/resources/#fonts).

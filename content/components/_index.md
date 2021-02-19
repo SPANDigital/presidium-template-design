@@ -1,5 +1,5 @@
 ---
-url: components
 title: Components
 slug: components
+url: components
 ---

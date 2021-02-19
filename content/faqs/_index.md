@@ -1,5 +1,5 @@
 ---
+title: Faqs
 slug: faqs
 url: faqs
-title: Faqs
 ---

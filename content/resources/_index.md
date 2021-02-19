@@ -1,5 +1,5 @@
 ---
+title: Resources
 slug: resources
 url: resources
-title: Resources
 ---
